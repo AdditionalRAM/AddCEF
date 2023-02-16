@@ -15,10 +15,10 @@
 #change the variables below in order to personalize
 #NOTE : Script name determines the name of the .exe file of the build!
 
-miniwebname = "addcefout_sub"
-scriptname = "addcef_out.py"
-windowname = "test window"
-port = 42069
+miniwebname = "addcefout_sub.exe" #changed name of miniweb.exe
+scriptname = "addcef_out.py" #name of generated script and EXE file
+windowname = "test window" #name of CEF window
+port = 42069 #port miniweb runs on
 
 import os
 import time
