@@ -1,12 +1,12 @@
 #Written by AdditionalRAM
-#ADDCEF Project
+#AddCEF Project
 #Converts any web project to standalone windows application
 #using miniweb and Chromium Embedded Framework
 
 #Prerequisites: Install Python 3.9 (no newer) and
 #move this script to your Scripts folder
 
-#You need an interner connection on the first run
+#You need an internet connection on the first run
 #After first run all required files are downloaded and
 #you can run it without an internet connection too
 
